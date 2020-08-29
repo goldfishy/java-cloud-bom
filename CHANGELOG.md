@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.135.0](https://www.github.com/googleapis/java-cloud-bom/compare/0.134.0...v0.135.0) (2020-08-29)
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-asset-bom to v1.7.0 ([#860](https://www.github.com/googleapis/java-cloud-bom/issues/860)) ([fb244b1](https://www.github.com/googleapis/java-cloud-bom/commit/fb244b12ca4451fd0e218118e54e6f19bc4f7d4a))
+* update dependency com.google.cloud:google-cloud-kms-bom to v1.40.0 ([#856](https://www.github.com/googleapis/java-cloud-bom/issues/856)) ([665b009](https://www.github.com/googleapis/java-cloud-bom/commit/665b009939a02e4989c9437e982c3a5b1b4af1f9))
+* update dependency com.google.cloud:google-cloud-recommender-bom to v1.2.1 ([#823](https://www.github.com/googleapis/java-cloud-bom/issues/823)) ([5f2c4ae](https://www.github.com/googleapis/java-cloud-bom/commit/5f2c4aee20723144d3a19f61b92f2ec0cb570590))
+* update dependency com.google.cloud:google-cloud-spanner-bom to v1.60.0 ([#855](https://www.github.com/googleapis/java-cloud-bom/issues/855)) ([85092ab](https://www.github.com/googleapis/java-cloud-bom/commit/85092ab6bd8545ebfe48fa4e6bbdfcd8332f47f6))
+* update dependency com.google.cloud:google-cloud-storage to v1.112.0 ([#862](https://www.github.com/googleapis/java-cloud-bom/issues/862)) ([0eba8c8](https://www.github.com/googleapis/java-cloud-bom/commit/0eba8c853ffd279963f1615e82c141146e3fd69f))
+* update dependency com.google.cloud:google-cloud-translate-bom to v1.95.2 ([#861](https://www.github.com/googleapis/java-cloud-bom/issues/861)) ([701179c](https://www.github.com/googleapis/java-cloud-bom/commit/701179c53b9666202e2739dd225bd1929c39b597))
+
 ## [0.134.0](https://www.github.com/googleapis/java-cloud-bom/compare/0.133.0...v0.134.0) (2020-08-25)
 
 
